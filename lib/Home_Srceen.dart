@@ -34,7 +34,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     Padding(
                       padding: const EdgeInsets.all(10),
                       child: Text(
-                        "Welcome to Bar Bar E-Sprot",
+                        "Welcome to Archeries Range",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 30,
